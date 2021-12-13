@@ -1,4 +1,4 @@
-# upload-to-Dropbox
+# Copy changed file and upload to Dropbox
 
 Simple python script for Windows to do following for predefined list of files
 
