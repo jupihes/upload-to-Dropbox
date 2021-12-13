@@ -3,7 +3,7 @@
 Simple python script for Windows to do following for predefined list of files
 
 
-1. [Daily xcopy your files to specific folder](https://github.com/jupihes/upload-to-Dropbox/blob/master/toDropBox.py)
+1. [Daily xcopy your files to specific folder](https://github.com/jupihes/upload-to-Dropbox/blob/master/xcopy%20files.py)
 ```
 import subprocess
 srcs = [r"C:\Users\<username>\Desktop\Document 1.pdf",
